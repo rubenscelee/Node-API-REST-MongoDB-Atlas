@@ -67,8 +67,6 @@ app.listen(3000)
 
 
 Criar o projeto no Mongo Atlas. 
-Login e senha do banco:
-login: rubens   senha: 5$v-hgPCYnz329a
 
 //conectar com o banco
 mongoose.connect(
